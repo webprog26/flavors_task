@@ -26,5 +26,11 @@
             android:text="@string/hello_world"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:textColor="@color/colorBlack"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnPurchase"
+            android:text="@string/btn_purchase_title"
+            android:layout_alignParentBottom="true"/>
     </RelativeLayout>
 </RelativeLayout>

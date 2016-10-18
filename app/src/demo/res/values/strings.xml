@@ -2,4 +2,6 @@
 <resources>
     <string name="app_name">FlavorsAdv2Demo</string>
     <string name="hello_world">You are now discovering demo-version</string>
+    <string name="btn_purchase_title">Purchase</string>
+    <string name="btn_click_toast">This is demo version. Upgrade to full and make any purchase available for you</string>
 </resources>

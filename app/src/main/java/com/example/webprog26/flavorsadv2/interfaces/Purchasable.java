@@ -6,5 +6,8 @@ package com.example.webprog26.flavorsadv2.interfaces;
 
 public interface Purchasable {
 
+    /**
+     * Makes purchases available for the customer
+     */
     void onPurchase();
 }

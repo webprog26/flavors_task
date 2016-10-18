@@ -33,6 +33,10 @@ android {
             versionName '1.0-full'
         }
     }
+    sourceSets {
+        demo { java.srcDirs = ['src/demo/java', 'src/demo/java/'] }
+        full { java.srcDirs = ['src/full/java', 'src/full/java/'] }
+    }
 }
 
 dependencies {
