@@ -31,6 +31,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/btnPurchase"
             android:text="@string/btn_purchase_title"
-            android:layout_alignParentBottom="true"/>
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/selector_purchase_button"/>
     </RelativeLayout>
 </RelativeLayout>
